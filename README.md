@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/shaeep043/Iro_x/stargazers"><img src="https://img.shields.io/github/stars/shaeep043/Iro_x?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/shaeep043/Iro_x/network/members"> <img src="https://img.shields.io/github/forks/shaeep043/Iro_x?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/shaeep043/Iro_x/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/dattudd/Iron_x/stargazers"><img src="https://img.shields.io/github/stars/shaeep043/Iro_x?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/dattudd/Iron_x/network/members"> <img src="https://img.shields.io/github/forks/shaeep043/Iro_x?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/dattudd/Iron_x/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/shaeep043/Iro_x/commits/shaeep043"> <img src="https://img.shields.io/github/last-commit/shaeep043/Iro_x?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/dattudd/Iron_x/commits/shaeep043"> <img src="https://img.shields.io/github/last-commit/shaeep043/Iro_x?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -25,13 +25,13 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/shaeep043/Iro_x"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/dattudd/Iron_x"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/shaeep043/Iro_x/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/dattudd/Iron_x/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -43,7 +43,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/shaeep043/Iro_x && cd Iro_x`
+`git clone https://github.com/dattudd/Iron_x && cd Iro_x`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
